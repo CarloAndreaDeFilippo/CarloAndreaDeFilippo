@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am a Postdoctoral Researcher in Materials Science with a PhD from University of Roma Tre. I specialize in computational modeling and simulation of complex systems, with strong expertise in C++, Python, Monte Carlo methods, and multithreaded algorithms (OpenMP). My work includes developing scientific software to study nanocolloidal self-assembly, polymer systems, and scattering spectra.
 
 
