@@ -1,5 +1,5 @@
 # About Me:
-I am a Postdoctoral Researcher in Materials Science with a PhD from University of Roma Tre. I specialize in computational modeling and simulation of complex systems, with strong expertise in C++, Python, Monte Carlo methods, and multithreaded algorithms (OpenMP). My work includes developing scientific software to study nanocolloidal self-assembly, polymer systems, and scattering spectra.
+I am a Postdoctoral Researcher in Computational Physics with a PhD from University of Roma Tre. I specialize in computational modeling and simulation of complex systems, with strong expertise in C++, Python, Monte Carlo methods, and multithreaded algorithms (OpenMP). My work includes developing scientific software to study nanocolloidal self-assembly, polymer systems, and scattering spectra.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/carloandreadefilippo/) 
