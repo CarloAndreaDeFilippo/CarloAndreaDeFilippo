@@ -22,6 +22,5 @@ I am a Postdoctoral Researcher in Computational Physics with a PhD from Universi
 ![](https://nirzak-streak-stats.vercel.app/?user=CarloAndreaDeFilippo&theme=shadow_blue&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarloAndreaDeFilippo&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
 ---
 
